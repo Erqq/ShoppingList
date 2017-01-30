@@ -1,0 +1,49 @@
+RELEASE NOTES
+
+    File          : RELEASENOTES.txt
+    Time-stamp    : 2016-12-20 Eerik Timonen
+    Description   : Release notes for release 3.
+    Amount of work: 26h
+
+
+GENERAL INFO
+	
+    Added button for adding item and remove table row to the GUI.
+    User can now add and remove items on the list on the GUI.
+    You can now merge current list with a .txt file on the GUI.
+    User can open lists from .txt files and save lists to .txt file.
+    Added a function to make a new list in GUI. Javadoc was added.
+    Save option to DropBox was not added due to lack of time.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - Buttons for merge
+    - User can add products to list via GUI
+    - saving list to Dropbox
+    - GUI ready
+    - Javadocs
+
+IMPLEMENTED FEATURES
+	
+    - Graphical User Interface ready
+    - Open .txt files in GUI
+    - Save .txt files to directory in GUI
+    - Merge current list with a .txt file in GUI
+    - Can make a new list in GUI
+    - Button for adding a item
+    - Button for remove row from the table
+    - User can add items via GUI
+    - Javadocs
+	
+FEATURES NOT IMPLEMENTED
+
+    - saving list to Dropbox
+    
+PLANNED FEATURES FOR NEXT RELEASE
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to
+    correspond to the new situation.
+
+End of file.

@@ -1,0 +1,37 @@
+PRODUCT BACKLOG
+
+    File       : PRODUCTBACKLOG.txt
+    Time-stamp : 2016-12-20 Eerik Timonen
+    Description: Product Backlog is the master list of all functionality desired in
+                 the product.
+
+PRODUCT BACKLOG WITH RELEASES
+
+    RELEASE 1: 2016-11-29
+	
+    - Command line interface ready
+    - Add items to the list
+    - Compine lists
+    - Saving LinkedList contents to text-file.
+    - Open text-file and transform the contents to LinkedList
+   
+    RELEASE 2: 2016-12-06
+    
+    - Compine lists
+    - Graphical User Interface
+    - User can write to list via GUI
+    - Buttons for open list
+    
+    RELEASE 3: 2016-12-20
+
+    - Graphical User Interface ready
+    - Open .txt files in GUI
+    - Save .txt files to directory in GUI
+    - Merge current list with a .txt file in GUI
+    - Can make a new list in GUI
+    - Button for adding a item
+    - Button for remove row from the table
+    - User can add items via GUI
+    - Javadocs
+   
+End of file.
